@@ -38,6 +38,6 @@ Key Syntax: INNER JOIN, LEFT JOIN, COALESCE, GROUP BY, HAVING, SUBQUERIES.
 📂 How to Use
 Clone the repository.
 
-Import the AdventureWorks.sql file into your local MySQL instance.
+Import the AdventureWorks.sql file into your local MySQL instance - You can use this [OLTP-Adventureworks](https://github.com/vishal180618/OLTP-AdventureWorks2019-MySQL/tree/6cc8851a60d8880ea347921d4605e6372c3c0307)
 
 Run the scripts in the /queries folder to see the results.
